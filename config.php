@@ -5,7 +5,7 @@ $dbHost = '127.0.0.1';
 $dbPort = '3307';
 $dbName = 'campusloop';
 $dbUser = 'root';
-$dbPass = 'areej123'; 
+$dbPass = '*****'; 
 
 $dsn = "mysql:host={$dbHost};port={$dbPort};dbname={$dbName};charset=utf8mb4";
 try {
